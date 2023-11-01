@@ -9,7 +9,7 @@ Fill out the IDS required in the config.json
 {
     "token": "YOUR-TOKEN",
     "clientId": "YOUR-CLIENT-ID",
-	"guildId": "YOUR-SERVER-ID"
+    "guildId": "YOUR-SERVER-ID"
 }
 ```
 
