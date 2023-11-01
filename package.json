@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "express": "^4.18.2"
+  },
+  "name": "format-bot",
+  "version": "1.0.0",
+  "main": "discord.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.21.0",
+    "prettier": "^3.0.3"
+  }
+}
